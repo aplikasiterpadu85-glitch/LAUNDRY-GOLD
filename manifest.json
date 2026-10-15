@@ -4,9 +4,9 @@
   "display": "standalone",
   "name": "LAUNDRY KU 3D",
   "orientation": "any",
-  "scope": "/",
+  "scope": "./",
   "short_name": "LAUNDRYKU",
-  "start_url": "/",
+  "start_url": "./index.html",
   "theme_color": "#2183b0",
   "categories": [
     "business"
